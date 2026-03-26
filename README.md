@@ -12,11 +12,11 @@ Beginner-friendly and easy to understand
 🛠️ Technologies Used
 HTML – Structure of the page
 CSS – Styling and layout
-JavaScript (OOP) – Dynamic behavior and logic
+JavaScript (OOP) – Dynamic behavior and logic <br>
 📂 Project Structure
 index.html
 
-All code (HTML, CSS, and JavaScript) is contained in a single file for simplicity.
+All code (HTML, CSS, and JavaScript) is contained in a single file for simplicity.<br>
 
 🧠 How It Works
 1. QAItem Class
@@ -32,14 +32,14 @@ Uses addEventListener("click")
 Answers are hidden by default using CSS
 3. FAQ List
 
-An array of QAItem objects is created and rendered dynamically into the page.
+An array of QAItem objects is created and rendered dynamically into the page.<br>
 
 ▶️ How to Run the Project
 Save the file as index.html
 Open it in any modern web browser
 Click on a question to see its answer
 
-No setup or installation required.
+No setup or installation required.<br>
 
 ✏️ Customization
 
