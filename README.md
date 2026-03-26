@@ -8,12 +8,16 @@ Clean and simple FAQ layout
 Clickable questions that toggle answers
 Uses JavaScript classes (OOP)
 No external libraries required
-Beginner-friendly and easy to understand
+Beginner-friendly and easy to understand <br>
+
+ 
 🛠️ Technologies Used
 HTML – Structure of the page
 CSS – Styling and layout
-JavaScript (OOP) – Dynamic behavior and logic <br>
-📂 Project Structure
+JavaScript (OOP) – Dynamic behavior and logic <br>  
+
+
+📂 Project Structure  <br>
 index.html
 
 All code (HTML, CSS, and JavaScript) is contained in a single file for simplicity.<br>
@@ -25,11 +29,13 @@ Each FAQ item is represented by a QAItem class:
 
 question → stores the question text
 answer → stores the answer text
-render() → creates and returns the HTML elements
+render() → creates and returns the HTML elements <br>
+
 2. Click Interaction
 Clicking a question toggles the answer’s visibility
 Uses addEventListener("click")
-Answers are hidden by default using CSS
+Answers are hidden by default using CSS <br> 
+
 3. FAQ List
 
 An array of QAItem objects is created and rendered dynamically into the page.<br>
@@ -43,7 +49,7 @@ No setup or installation required.<br>
 
 ✏️ Customization
 
-You can easily:
+You can easily:  <br>
 
 Add more FAQ items by creating new QAItem objects
 Change styles in the <style> section
